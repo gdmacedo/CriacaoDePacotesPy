@@ -1,3 +1,9 @@
+<!--Banner session-->
+<p align="center"><img src="./img/banner.png" alt="banner"></p>
+
+<!--About session-->
+<h1 align="center">Formação Python Developer<br>Digital Innovation One</h1>
+
 # Projeto: Descomplicando a Criação de Pacotes de Processamento de Imagens em Python
 ## Tecnologia: Python
 -----------------------------------------
